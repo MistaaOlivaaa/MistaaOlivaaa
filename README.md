@@ -15,4 +15,4 @@
 
 
 
-[snake gif](https://github.com/MistaaOlivaaa/MistaaOlivaaa/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/MistaaOlivaaa/MistaaOlivaaa/blob/output/github-snake-dark.svg)
