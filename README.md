@@ -1,6 +1,6 @@
 
 
-![Alt Text](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif){: width="500px" }
+![Alt Text](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
 <h2>Hi 👋, I'm Saad Fahmi a passionate learner with a strong interest in programming languages. Currently a student I’m deeply enthusiastic about exploring software development, robotics, and everything in between I’m eager to learn and contribute in any way I can.</h2>
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
